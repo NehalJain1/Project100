@@ -1,0 +1,54 @@
+#pic1 {
+    width: 270px;
+    height: 200px;
+}
+#pic2 {
+    width: 270px;
+    height: 200px;
+}
+#pic3 {
+    width: 544px;
+    height: 200px;
+}
+#developer{
+    text-align: center;
+  background-color: blanchedalmond;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
+body {
+    background-color: #f6fac0;
+}
+h1 {
+    font-family: 'IBM Plex Serif', serif;
+        font-weight: bold;  
+}
+h3 {
+    font-family: 'Exo 2', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-weight: bold;  
+}
+h4 {
+color: crimson;
+font-family: 'Exo 2', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'M PLUS 1', sans-serif;
+}
+#webcam{
+    width:360px;
+    height: 250px;
+    border: 1px solid orange;
+}
+
+img:hover{
+    border-radius: 70px;
+    box-shadow: 0 6px 8px 0 black;
+}
+img {
+    border: 2px solid white;
+}
+
+
+
